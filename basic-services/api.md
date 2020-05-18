@@ -7,11 +7,11 @@
  
  `http://xx.com/api/user/register`
 
-### 请求方式：
+### 请求方式
 
 * POST
 
-### 参数：
+### 参数
 
 | 参数名  | 必选 | 类型 | 说明|
 |--|:--:|--|--|
@@ -33,8 +33,12 @@
   "last_login_time": "0",  
  }
 ```
-**返回参数说明**
+### 返回参数说明
+|参数名|类型  |
+|--|--|
+|  |  |
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0MzcwMDU4LC0yMzUwMzM4NzhdfQ==
+eyJoaXN0b3J5IjpbMTc3MjA3NTI4LC0yMzUwMzM4NzhdfQ==
 -->
