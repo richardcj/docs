@@ -731,6 +731,9 @@ $card->jssdk->getTicket();
 // 强制刷新
 $card->jssdk->getTicket(true);
 ```
+
+```php
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMjcxNDAzXX0=
+eyJoaXN0b3J5IjpbMTg5MjU5MjYwNV19
 -->
