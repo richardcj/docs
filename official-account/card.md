@@ -5,7 +5,7 @@
 
 ```php
 $card = $app->card;
-
+```
 
 
 ## 通用功能
@@ -732,5 +732,5 @@ $card->jssdk->getTicket();
 $card->jssdk->getTicket(true);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzk2Nzk1XX0=
+eyJoaXN0b3J5IjpbNDYzMjcxNDAzXX0=
 -->
