@@ -5,7 +5,7 @@
 
 ```php
 $card = $app->card;
-```
+
 
 
 ## 通用功能
@@ -639,7 +639,7 @@ $result = $card->member_card->updateUser($info);
 ### 添加子商户
 
 ```php
-$card->sub_merchant->create(array $attributes); 
+$card->sub_merchant->create(array $attributes); 
 ```
 
 示例：
@@ -731,3 +731,6 @@ $card->jssdk->getTicket();
 // 强制刷新
 $card->jssdk->getTicket(true);
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIzNzk2Nzk1XX0=
+-->
