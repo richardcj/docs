@@ -34,11 +34,12 @@
  }
 ```
 ### 返回参数说明
-|参数名|类型  |
-|--|--|
-|  |  |
+|参数名|类型  |说明|
+|--|:--:|--|
+| groupid |int  |用户组id，1：超级管理员；2：普通用户 |
 
-
+### 备注
+* 更多返回错误代码请看首页的错误代码描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjA3NTI4LC0yMzUwMzM4NzhdfQ==
+eyJoaXN0b3J5IjpbNDAwNTY5NDMxLC0yMzUwMzM4NzhdfQ==
 -->
