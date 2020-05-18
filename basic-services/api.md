@@ -22,8 +22,19 @@
  ### 返回示例
 
 ```json
-
+{  
+  "error_code": 0,  
+  "data": {  
+  "uid": "1",  
+  "username": "12154545",  
+  "name": "吴系挂",  
+  "groupid": 2 ,  
+  "reg_time": "1436864169",  
+  "last_login_time": "0",  
+ }
+```
+**返回参数说明**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTQ1OTgzNywtMjM1MDMzODc4XX0=
+eyJoaXN0b3J5IjpbNzQ0MzcwMDU4LC0yMzUwMzM4NzhdfQ==
 -->
