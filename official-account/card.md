@@ -731,7 +731,6 @@ $card->jssdk->getTicket();
 // 强制刷新
 $card->jssdk->getTicket(true);
 ```
-
 ```php
 /**  
  * 字符串截取，支持中文和其他编码  
@@ -753,8 +752,8 @@ function msubstr($str, $start = 0, $length, $charset = "utf-8", $suffix = true)
   $slice = join("", array_slice($match[0], $start, $length));  
  }  return $suffix ? $slice . '...' : $slice;  
 }
- ```
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzU0NDQwMF19
+eyJoaXN0b3J5IjpbLTE3MjA4MzM3NzQsMTU3MzU0NDQwMF19
 -->
