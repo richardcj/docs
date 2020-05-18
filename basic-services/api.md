@@ -13,9 +13,12 @@
 
 ### 参数：
 
+| 参数名  | 必选 | 类型 | 说明|
+|--|--|--|--|
+| username | 是  | string | 
 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA1NjMwOCwtMjM1MDMzODc4XX0=
+eyJoaXN0b3J5IjpbLTE4MDgyNjI3ODksLTIzNTAzMzg3OF19
 -->
