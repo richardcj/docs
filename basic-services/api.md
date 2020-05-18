@@ -7,8 +7,15 @@
  
  `http://xx.com/api/user/register`
 
-###
+### 请求方式：
+
+* POST
+
+### 参数：
+
+
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTE4ODY2NiwtMjM1MDMzODc4XX0=
+eyJoaXN0b3J5IjpbLTExOTA1NjMwOCwtMjM1MDMzODc4XX0=
 -->
