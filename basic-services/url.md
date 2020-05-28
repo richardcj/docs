@@ -6,10 +6,13 @@
 
 ```php
 $shortUrl = $app->url->shorten('https://easywechat.com');
-//
+// 
 (
     [errcode] => 0
     [errmsg] => ok
     [short_url] => https://w.url.cn/s/Aq7jWrd
 )
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUyMTYxMDg2Ml19
+-->
